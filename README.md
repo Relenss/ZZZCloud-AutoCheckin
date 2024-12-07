@@ -34,4 +34,4 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/GamerNoTitle/MHYY.svg)](https://starchart.cc/GamerNoTitle/MHYY)
+[![Stargazers over time](https://starchart.cc/GamerNoTitle/ZZZCloud-AutoCheckin.svg)](https://starchart.cc/GamerNoTitle/ZZZCloud-AutoCheckin)
