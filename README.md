@@ -12,7 +12,9 @@
 
 ## 快速开始
 
-请参阅[文档](#)进行配置，有问题请在issue中提出。
+~~请参阅[文档](#)进行配置，有问题请在issue中提出。~~
+
+[抓取token的方式跟云原神一样，可以看隔壁文档，我是真的懒得再写了，米忽悠的没变过 =-=](https://bili33.top/posts/MHYY-AutoCheckin-Manual-Gen2/)
 
 如果本仓库被封了就来这里找https://git.bili33.top/GamerNoTitle/ZZZCloud-AutoCheckin
 
