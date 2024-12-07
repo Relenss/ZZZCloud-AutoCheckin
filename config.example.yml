@@ -1,0 +1,23 @@
+# 使用前请阅读文档：https://bili33.top/posts/ZZZCloud-AutoCheckin-Manual-Gen2/
+# 有问题请前往Github开启issue：https://github.com/GamerNoTitle/ZZZCloud-AutoCheckin/issues
+
+######## 以下为账号配置项，可以多账号，详情请参考文档 ########
+accounts:
+  # 第一个账号
+  - token: 
+    # 关于type：如果你在安卓版的云·绝区零里面抓的话type应该是2
+    # 此处仅供参考，具体以你抓的为准 
+    type: 
+    # sysver：安卓版本（鸿蒙不清楚，手上没设备）
+    sysver: 
+    # deviceid：抓到什么填什么
+    deviceid: 
+    # devicename: 手机抓的话就是手机的入网型号，如红米K40为M2012K11AC，红米K50为22021211RC
+    devicename: 
+    # devicemodel: 手机抓的填抓出来的手机型号，大概为手机厂商+上面的deviceid，如红米K40为Xiaomi M2012K11AC
+    devicemodel: 
+    # appid: 默认填9000357，如果你的不一样按照你的填
+    appid: 
+    # region(可选): 账号所处的地区，国服填cn，国际服填os，不填或非法值按国服处理
+    # 目前没用！！！没做外服！！！
+    region: cn
