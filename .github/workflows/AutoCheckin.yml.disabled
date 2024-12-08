@@ -30,6 +30,8 @@ jobs:
         pip install -r requirements.txt
     - name: Run script
       env:
-        MHYY_CONFIG: ${{ secrets.MHYY_SECRET }}
+        ZZZCLOUD_CONFIG: ${{ secrets.ZZZCLOUD_CONFIG }}
+        ZZZCLOUD_LOGLEVEL: ${{ secrets.ZZZCLOUD_LOGLEVEL }}
+        ZZZCLOUD_DEBUG: ${{ secrets.ZZZCLOUD_DEBUG }}
       run: |
         python3 main.py
