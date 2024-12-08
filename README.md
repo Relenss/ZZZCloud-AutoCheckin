@@ -20,6 +20,7 @@
 
 - ZZZCLOUD_CONFIG = MHYY_CONFIG
 - ZZZCLOUD_LOGLEVEL = MHYY_LOGLEVEL
+- ZZZCLOUD_DEBUG = MHYY_DEBUG
 
 如果本仓库被封了就来这里找https://git.bili33.top/GamerNoTitle/ZZZCloud-AutoCheckin
 
