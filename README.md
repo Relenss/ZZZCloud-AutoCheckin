@@ -16,6 +16,11 @@
 
 [抓取token的方式跟云原神一样，可以看隔壁文档，我是真的懒得再写了，米忽悠的没变过 =-=](https://bili33.top/posts/MHYY-AutoCheckin-Manual-Gen2/)
 
+本项目的变量跟MHYY有如下对应关系
+
+- ZZZCLOUD_CONFIG = MHYY_CONFIG
+- ZZZCLOUD_LOGLEVEL = MHYY_LOGLEVEL
+
 如果本仓库被封了就来这里找https://git.bili33.top/GamerNoTitle/ZZZCloud-AutoCheckin
 
 **要是真的不会用就别不好意思开issue问啦，我在Sentry的后台看到了一堆不知道怎么形容的Bug**
